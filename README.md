@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter application.
+A new Flutter application developed by seb, using the official demo templates and documentation from Flutter.
 
 ## Getting Started
 
