@@ -1,4 +1,4 @@
-# startup_namer
+# Funny Names Generator
 
 A new Flutter application developed by seb, using the official demo templates and documentation from Flutter.
 
